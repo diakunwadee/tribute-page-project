@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Tribute to Alan Rickman</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+		<style>
+		body {
+			margin-top: 40px;
+		};
+
+   		</style>
+	</head>
+	<body>
+		<div class="container">
+			<div class="jumbotron">
+				<div class="row">
+          			<div class="col-xs-12">
+          				<div class="text-center">
+							<h1><strong>Alan Rickman</strong></h1>
+  							<p><em>A bad man who will be "always" remembered</em></p>
+  						</div>	
+  							<div class="thumbnail">			
+  								<img class="responsive" src="http://anygoodfilms.com/wp-content/uploads/2016/04/Alan-Rickman.jpg">
+  							</div>
+  						<div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+  							<h3>Here’s a timeline of Alan Rickman’s life:</h3>
+  								<ul>
+    								<li><strong>1946</strong> — born as Alan Sidney Patrick Rickman in Hammersmith, West London</li>
+    								<li><strong>1965</strong> — met his lifetime partner <em>Rima Horton</em> while in the amateur Group Court Drama Club</li>
+    								<li><strong>1972</strong> — wrote to request an audition with the Royal Academy of Dramatic Art (RADA)</li>
+    								<li><strong>1978</strong> —  joined the prestigious Royal Shakespeare Company, appearing in The Tempest and Love's Labour's Lost</li>
+    								<li><strong>1980s</strong> — acting in BBC serials, radio dramas and repertory theater
+    								<li><strong>1985</strong> —  The turning point in Rickman's career with the starring role of Le Vicomte de Valmont in Les Liaisons Dangereuses, a part that playwright Christopher Hampton
+    								<li><strong>1987</strong> —  performed the unforgettably villainous role first in London and then on Broadway, earning a Tony Award nomination.
+    								<li><strong>1988</strong> —  his first Hollywood film role: Die Hard
+    								<li><strong>1993</strong> —  was elected to the Council of the Royal Academy of Dramatic Art (RADA)
+    								<li><strong>1995</strong> —  chosen by Empire as one of the 100 Sexiest Stars in film history (No. 34)
+    								<li><strong>1997</strong> —  ranked No. 59 in Empire's "The Top 100 Movie Stars of All Time" list
+    								<li><strong>2001-2011</strong> —  His portrayal of Severus Snape, the potions master in the Harry Potter series  
+    								<li><strong>2009</strong> —   awarded the James Joyce Award by University College Dublin's Literary and Historical Society
+    								<li><strong>2011</strong> — His first award nominations for his role as Snape came at the 2011 Alliance of Women Film Journalists Awards, 2011 Saturn Awards, 2011 Scream Awards and 2011 St. Louis Gateway Film Critics Association Awards in the Best Supporting Actor category.  
+    								<li><strong>2016</strong> — died at age 69 from Pancreatic cancer</li>
+
+
+  								</ul>
+  								<blockquote>
+									<p>"I don't play villains. I play very interesting people"</p>
+									<footer><cite>Alan Rickman</cite></footer>
+								</blockquote>
+  							<h3>If you have time, you should read more about this incredible man on his <a href="https://en.wikipedia.org/wiki/Alan_Rickman" target="_blank">Wikipedia entry</a>.</h3>
+
+						</div>
+						
+					</div>
+				</div>
+			</div>
+		</div>
+	
+	</body>
+</html>
+
